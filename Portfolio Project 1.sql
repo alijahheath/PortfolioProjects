@@ -1,4 +1,4 @@
-elect *
+Select *
 From Portfolio..CovidDeaths
 Where continent is not null
 ORDER BY 3,4
